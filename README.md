@@ -1,4 +1,4 @@
-# Image-sigmentation
+# Image-segmentation
 ### 1) Для обучения этой НС был использован датасет Airplanes и размеченный датасет Segment.
 ![image](https://user-images.githubusercontent.com/108821535/177766128-d3a0fdc1-d19a-4cae-b996-bd81a5d2c6b6.png)
 ![image](https://user-images.githubusercontent.com/108821535/177766175-db3789f5-3d63-409f-8e56-7affe9b5ab16.png)
